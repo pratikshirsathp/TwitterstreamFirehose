@@ -10,7 +10,7 @@ The data is then pushed into AWS firehose data delivery stream, Firehose then pu
 Opensearch (Elastic search) is used for log analysis and visualisation of data
 
 <h2> Architecture : </h2>
-<img src= "/firehose.png" height = "800" width = "800">
+<img src= "/firehose.png" width = "650>
  
 
 

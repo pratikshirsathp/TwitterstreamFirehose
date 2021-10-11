@@ -1,5 +1,5 @@
 # TwitterStream-Firehose
-<h2> Data processing pipeline for Twitter </h2>
+<h2> Real-time Data processing pipeline for Twitter </h2>
 
 Python script consume data from Twitter streaming API using Tweepy library
 

@@ -11,6 +11,9 @@ Opensearch (Elastic search) is used for log analysis and visualisation of data
 
 <h2> Architecture : </h2>
 <img src= "/firehose.png" width = "650">
+<img src= "/kibana.png" width = "700">
+
+
  
 
 

@@ -1,7 +1,7 @@
 # TwitterstreamFirehose 
 <h2> Data processing pipeline for Twitter </h2>
 
-![](AWS.gif)
+![](AWS2.gif)
 
 <img src= "image/arch.png" width= "600">
 

@@ -11,8 +11,9 @@ firehose is used for load streaming data into data lakes such as S3, Amazon Reds
 <h2> Architecture : </h2>
 <img src= "/firehose.png" width = "700">
 
-Firehose then push data to AWS Opensearch 
-Opensearch (Elastic search) is used for log analysis and visualisation of data
+Firehose then push data to AWS Opensearch!
+
+Opensearch (Elastic search) is used for analysis and visualisation of data using Kibana
 <h2> Kibana visualisation dashboard</h2>
 
 <img src= "/kibana.png" width = "700">

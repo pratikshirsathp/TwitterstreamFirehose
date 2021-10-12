@@ -7,7 +7,7 @@ Python script consume data from Twitter streaming API using Tweepy library
 
 
 The data is then pushed into AWS firehose data delivery stream,  
-firehose is used for load streaming data into data lakes such as S3, Amazon Redshift, Amazon OpenSearch
+firehose is used for loading streaming data into data lakes such as S3, Amazon Redshift, Amazon OpenSearch
 <h2> Architecture : </h2>
 <img src= "/firehose.png" width = "700">
 

@@ -1,4 +1,4 @@
-<h1> Real-time Data processing pipeline for Twitter </h2>
+<h1> Real-time Data processing pipeline for Twitter </h1>
 
 Python script consume data from Twitter streaming API using Tweepy library
 
